@@ -1,6 +1,3 @@
-![Jared's Github Profile Views](https://komarev.com/ghpvc/?username=jaredforrest)
-
-
 <h1 align="center">Hey There 👋</h1>
 <h2 align="center">I'm Jared Forrest, a Junior Full-Stack Developer.</h2>
 <br>
@@ -13,6 +10,8 @@
 
 <p><a href="https://www.linkedin.com/in/jared-forrest-/">Connect with me on LinkedIn</a>
 
+  
+![Jared's Github Profile Views](https://komarev.com/ghpvc/?username=jaredforrest)
 <!--
 **jaredforrest/jaredforrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
