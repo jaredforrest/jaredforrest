@@ -31,8 +31,9 @@ I'm Jared Forrest, a Junior Full-Stack Developer.
   
 ![Jared's Github Profile Views](https://komarev.com/ghpvc/?username=jaredforrest)
   
-  
-  
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 <!--
 **jaredforrest/jaredforrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
