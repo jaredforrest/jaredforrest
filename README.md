@@ -18,14 +18,6 @@ I'm Jared Forrest, a Junior Full-Stack Developer.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40">
 
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jaredforrest/jaredforrest/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png"></img>
-  <br>
-  <h3>Currently working with Xander Talent as a Software Engineering Consultant.</h3>
-</div>
-<br>
-
 <p><a href="https://www.linkedin.com/in/jared-forrest-/">Connect with me on LinkedIn</a>
 
   
