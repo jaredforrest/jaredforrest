@@ -1,3 +1,4 @@
+<!--
 ### Hey There 👋
 I'm Jared Forrest, a Junior Full-Stack Developer.
 <br>
@@ -23,7 +24,7 @@ I'm Jared Forrest, a Junior Full-Stack Developer.
   
 ![Jared's Github Profile Views](https://komarev.com/ghpvc/?username=jaredforrest)
 
-<!--
+
 **jaredforrest/jaredforrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
